@@ -1,4 +1,4 @@
-package lk.sliit.ds.chatserver;
+package lk.sliit.ds.chat.client;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

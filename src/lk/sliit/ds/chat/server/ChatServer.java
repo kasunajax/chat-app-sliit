@@ -1,4 +1,4 @@
-package lk.sliit.ds.chatserver;
+package lk.sliit.ds.chat.server;
 
 
 import java.io.BufferedReader;
